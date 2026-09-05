@@ -1,33 +1,51 @@
-# Olá, meu nome é Laura 👋 <p style="color: #4285F4;"></p>
+<div align="center">
 
-🎓 **Estudante de [Ciência da Computação]** na [PUCMinas] (Previsão de formação: [DEzembro/2028])  
-✈️ **Intercâmbio cultural/acadêmico realizado** | 🇬🇧 **Inglês:** Fluente  
-🎯 **Objetivo:** Em busca da minha primeira oportunidade de estágio.
+# Olá, meu nome é Laura! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Software;Ingl%C3%AAs+Fluente+%7C+Interc%C3%A2mbio)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  🎓 <b>Estudante de Ciência da Computação</b> na <b>PUC Minas</b> (Previsão de formação: <b>Dezembro/2028</b>)<br>
+  ✈️ <b>Intercâmbio cultural/acadêmico realizado</b> | 🇬🇧 <b>Inglês:</b> Fluente<br>
+  🎯 <b>Objetivo:</b> Em busca da minha primeira oportunidade de estágio.
+</p>
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens de Programação:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="left">
 
-**Desenvolvimento Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<b>Linguagens de Programação:</b><br>
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7B68EE?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Banco de Dados & Controle de Versão:**  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
-**Produtividade & Design:**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<b>Desenvolvimento Frontend & Mobile:</b><br>
+![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-9370DB?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6A5ACD?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+<b>Banco de Dados & Controle de Versão:</b><br>
+![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9370DB?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+<b>Produtividade & Design:</b><br>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-6A5ACD?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-7B68EE?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white)
+
+</p>
 
 ---
 
@@ -44,7 +62,15 @@
 
 ---
 
+
+
 ### 📫 Como me encontrar
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-bargas-27b719425/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauradiasbargas@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/laura-bargas-27b719425/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lauradiasbargas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
