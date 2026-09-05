@@ -58,9 +58,9 @@
 * **Tecnologias:** React/Flutter, SQL.
 * **Link de demonstração:** [Ver aplicação](link-do-deploy)
 
-#### ⚙️ [Nome do Projeto em Java, Python ou C/C++](link-do-repositorio-2)
-* **O que é:** Sistema focado em [lógica/estrutura de dados/automação].
-* **Tecnologias:** Java/Python/C++.
+#### ⚙️ [Projetos de LOgica](https://github.com/laurabargas06/projetos-logica-programacao)
+* **O que é:** Sistema focado em lógica/estrutura de dados/automação.
+* **Tecnologias:** Java/Python/C.
 
 ---
 
