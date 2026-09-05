@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Laura!+%F0%9F%90%BE" alt="OOlá, meu nome é Laura!" />
+  <img src="https://img.shields.io/badge/Olá,%20meu%20nome%20é%20Laura!-8A2BE2?style=for-the-badge&logoColor=white" height="40" alt="Laura" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Software;Ingl%C3%AAs+Fluente+%7C+Interc%C3%A2mbio)](https://git.io/typing-svg)
