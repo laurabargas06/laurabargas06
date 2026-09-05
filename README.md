@@ -1,6 +1,8 @@
 <div align="center">
 
-# Olá, meu nome é Laura! 👋
+<h1 align="center" style="color: #8A2BE2;">
+  Olá, meu nome é Laura! 👋
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Software;Ingl%C3%AAs+Fluente+%7C+Interc%C3%A2mbio)](https://git.io/typing-svg)
 
