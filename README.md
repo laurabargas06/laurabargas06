@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Olá,%20meu%20nome%20é%20Laura!-8A2BE2?style=for-the-badge&logoColor=white&size=30" height="1000" alt="Laura" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Software;Ingl%C3%AAs+Fluente+%7C+Interc%C3%A2mbio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+Software;Ingl%C3%AAs+Fluente+%7C+Interc%C3%A2mbio)](https://git.io/typing-svg)
 
 </div>
 
