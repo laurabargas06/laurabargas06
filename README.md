@@ -52,12 +52,12 @@
 
 ### 📌 Projetos em Destaque
 
-#### 🚀 [Nome do Projeto em React ou Flutter](link-do-repositorio-1)
-* **O que é:** Aplicativo/Site focado em resolver [descreva o problema em 1 linha].
-* **Tecnologias:** React/Flutter, SQL.
+#### 🚀 [Taskflow](https://github.com/laurabargas06/Taskflow)
+* **O que é:** Kanban para organização de tarefas com foco Pomodoro.
+* **Tecnologias:** React, SQL, JavaScript.
 * **Link de demonstração:** [Ver aplicação](link-do-deploy)
 
-#### ⚙️ [Projetos de LOgica](https://github.com/laurabargas06/projetos-logica-programacao)
+#### ⚙️ [Projetos de Logica](https://github.com/laurabargas06/projetos-logica-programacao)
 * **O que é:** Sistema focado em lógica/estrutura de dados/automação.
 * **Tecnologias:** Java/Python/C.
 
